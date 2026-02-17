@@ -2,9 +2,9 @@
 
 Hello! Thank you for taking a look at my profile. I'm a machine learning researcher based in the United States 🇺🇸.
 
-I've been passionate about programming and mathematics for as long as I can remember. Being born in 2001, the concept of AI was drastically different than now. However, the idea of AI piqued my interest immediately and has since developed into a hobby and profession. After enrolling in DePaul University in 2017, I began independent and sanctioned research projects into reinforcement learning, natural language processing, and computer vision. Later, I continued to research machine learning, with a particular focus on low-level understanding, throughout the course of my PhD from 2020 to 2025.
+I've been passionate about programming and mathematics for as long as I can remember. Being born in 2001, the concept of AI was drastically different than now. However, the idea of AI piqued my interest immediately and has since developed into a hobby and profession. After starting my undergraduate program in 2017, I began independent and sanctioned research projects into reinforcement learning, natural language processing, and computer vision. Later, throughout my PhD from 2020 to 2025, I continued to research machine learning with a particular focus on low-level understanding.
 
-Concurrent to my education, I've picked up several jobs that have given me valuable opportunities to develop impactful projects, including:
+During the course of my education, I've held several roles that have given me opportunities to develop impactful methods and projects, including:
 
 <table style="border: none; border-collapse: collapse;">
   <tr>
