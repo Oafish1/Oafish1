@@ -9,7 +9,7 @@ During the course of my education, I've held several roles that have given me op
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="border: none; padding: 0px;">
-        <img src="https://media.licdn.com/dms/image/v2/D560BAQFB7cWzL9MrDA/company-logo_100_100/B56ZcxzAChGQAY-/0/1748887143466?e=1772668800&v=beta&t=r_Vs2VhKBmHwPcXxslGR-qHyrkLErdUY8aYv38gTtUk" title="Motherload AI" alt="Motherload AI" width="40" height="40" align="left"/>
+        <img src="assets/motherload.jpg" title="Motherload AI" alt="Motherload AI" width="40" height="40" align="left"/>
     </td>
     <td style="border: none; padding: 10px; vertical-align: top;">
         Managing the creation of an LLM application providing emotional support to mothers in the workforce, including implementation of traditional and reinforcement learning fine-tuning pipelines with an emphasis on user safety.
@@ -17,7 +17,7 @@ During the course of my education, I've held several roles that have given me op
   </tr>
   <tr>
     <td style="border: none; padding: 0px;">
-        <img src="https://media.licdn.com/dms/image/v2/D560BAQEKVTSiDIcyjA/company-logo_100_100/company-logo_100_100/0/1666811539456?e=1772668800&v=beta&t=DURTLoy1kExYEttSz_e03h-t1yAbleB6IARePGFb_rE" title="Daifeng Wang Lab, Waisman Center" alt="Daifeng Wang Lab, Waisman Center" width="40" height="40" align="left"/>
+        <img src="assets/waisman.jpg" title="Daifeng Wang Lab, Waisman Center" alt="Daifeng Wang Lab, Waisman Center" width="40" height="40" align="left"/>
     </td>
     <td style="border: none; padding: 10px; vertical-align: top;">
         Leading research teams in single-cell biology resulting in publications in reinforcement learning, variational methods, graph learning, and optimal transport in Q1 AI and biochemistry journals. Concurrently developing open-source libraries to encourage innovation.
@@ -25,7 +25,7 @@ During the course of my education, I've held several roles that have given me op
   </tr>
   <tr>
     <td style="border: none; padding: 0px;">
-        <img src="https://media.licdn.com/dms/image/v2/C560BAQEHSGnEEWTVXg/company-logo_100_100/company-logo_100_100/0/1646762687880/werk_labs_logo?e=1772668800&v=beta&t=P17lnNsmyzDp1NfgyymQDXuDt-sVV1h9FT8L-3F2C_8" title="Werklabs" alt="Werklabs" width="40" height="40" align="left"/>
+        <img src="assets/werklabs.jpg" title="Werklabs" alt="Werklabs" width="40" height="40" align="left"/>
     </td>
     <td style="border: none; padding: 10px; vertical-align: top;">
         Developing interactive client-facing dashboards to visualize factors driving KPI. Concurrently performing research into data anonymization and conducting briefings on nascent ML technologies, including generative modeling.
@@ -33,7 +33,7 @@ During the course of my education, I've held several roles that have given me op
   </tr>
   <tr>
     <td style="border: none; padding: 0px;">
-        <img src="https://media.licdn.com/dms/image/v2/C560BAQGtjP738eVS_A/company-logo_200_200/company-logo_200_200/0/1663160331133/the_mom_project_logo?e=1772668800&v=beta&t=9KM2RlTmsEJbnuS4-KorzsWo3O9cDAHpAhloibe6e-4" title="The Mom Project" alt="The Mom Project" width="40" height="40" align="left"/>
+        <img src="assets/tmp.jpg" title="The Mom Project" alt="The Mom Project" width="40" height="40" align="left"/>
     </td>
     <td style="border: none; padding: 10px; vertical-align: top;">
         Designing and maintaining the talent-employer matching algorithm (2018-2022) for 500K+ users, as well as client contract prioritization and outcome prediction. Concurrently maintained cross-team and backend databases.
