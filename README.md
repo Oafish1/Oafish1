@@ -1,8 +1,8 @@
 # <img src="assets/fish_163x128.png" align="left"/> Noah Cohen Kalafut, PhD
 
-Hello! Thank you for taking a look at my profile. I'm a machine learning researcher based in the United States 🇺🇸.
+Hello! Thank you for taking a look at my profile. I'm a machine learning researcher based in the United States.
 
-I've been passionate about programming and mathematics for as long as I can remember. Being born in 2001, the concept of AI was drastically different than now. However, the idea of AI piqued my interest immediately and has since developed into a hobby and profession. After starting my undergraduate program in 2017, I began independent and sanctioned research projects into reinforcement learning, natural language processing, and computer vision. Later, throughout my PhD from 2020 to 2025, I continued to research machine learning with a particular focus on low-level understanding.
+I've been passionate about programming and mathematics for as long as I can remember. When I began, the concept of AI was drastically different than now. However, the idea of AI piqued my interest immediately and has since developed into a hobby and profession. After starting my undergraduate program, I began independent and sanctioned research projects into reinforcement learning, natural language processing, and computer vision. Later, throughout my PhD, I continued to research machine learning with a particular focus on low-level understanding.
 
 For samples of my work, feel free to browse my public-facing repositories:
 
