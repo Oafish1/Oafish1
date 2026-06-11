@@ -11,7 +11,7 @@ For samples of my work, feel free to browse my public-facing repositories:
     <td style="border: none; padding: 0px;">
         <img src="https://github.com/Oafish1/DreamerX/blob/main/examples/images/Walker2D_1m.gif" title="DreamerX" alt="DreamerX" width="160" height="160" align="left"/>
     </td>
-    <td style="border: none; padding: 10px; vertical-align: top;">
+    <td align="center" style="border: none; padding: 10px; vertical-align: top; text-align: center;">
         <a href="https://github.com/Oafish1/DreamerX">LINK</a>
     </td>
     <td style="border: none; padding: 10px; vertical-align: top;">
@@ -22,7 +22,9 @@ For samples of my work, feel free to browse my public-facing repositories:
     <td style="border: none; padding: 0px;">
         <img src="https://github.com/daifengwanglab/CellTRIP/blob/main/images/example_dyngen_interpolation.png" title="CellTRIP" alt="CellTRIP" width="160" height="160" align="left"/>
     </td>
-    <td style="border: none; padding: 10px; vertical-align: top;">
+    <td align="center" style="border: none; padding: 10px; vertical-align: top; text-align: center;">
+        <a href="https://doi.org/10.1101/2025.11.21.689815">PAPER</a>
+        <br>
         <a href="https://github.com/daifengwanglab/CellTRIP">LINK</a>
     </td>
     <td style="border: none; padding: 10px; vertical-align: top;">
@@ -33,7 +35,9 @@ For samples of my work, feel free to browse my public-facing repositories:
     <td style="border: none; padding: 0px;">
         <img src="https://github.com/daifengwanglab/JAMIE/blob/main/examples/notebooks/output_figures/BrainChromatin-JAMIE.png" title="JAMIE" alt="JAMIE" width="160" height="160" align="left"/>
     </td>
-    <td style="border: none; padding: 10px; vertical-align: top;">
+    <td align="center" style="border: none; padding: 10px; vertical-align: top;">
+        <a href="https://doi.org/10.1038/s42256-023-00663-z">PAPER</a>
+        <br>
         <a href="https://github.com/daifengwanglab/JAMIE">LINK</a>
     </td>
     <td style="border: none; padding: 10px; vertical-align: top;">
