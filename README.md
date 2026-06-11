@@ -4,6 +4,44 @@ Hello! Thank you for taking a look at my profile. I'm a machine learning researc
 
 I've been passionate about programming and mathematics for as long as I can remember. Being born in 2001, the concept of AI was drastically different than now. However, the idea of AI piqued my interest immediately and has since developed into a hobby and profession. After starting my undergraduate program in 2017, I began independent and sanctioned research projects into reinforcement learning, natural language processing, and computer vision. Later, throughout my PhD from 2020 to 2025, I continued to research machine learning with a particular focus on low-level understanding.
 
+For samples of my work, feel free to browse my public-facing repositories:
+
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="border: none; padding: 0px;">
+        <img src="https://github.com/Oafish1/DreamerX/blob/main/examples/images/Walker2D_1m.gif" title="DreamerX" alt="DreamerX" width="160" height="160" align="left"/>
+    </td>
+    <td style="border: none; padding: 10px; vertical-align: top;">
+        <a href="https://github.com/Oafish1/DreamerX">LINK</a>
+    </td>
+    <td style="border: none; padding: 10px; vertical-align: top;">
+        DreamerX is an implementation of model-based DreamerV3 with minor optimizations and novel training adjustments. It is designed to be flexible and user-friendly, allowing researchers and practitioners to easily interchange components and environments.
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 0px;">
+        <img src="https://github.com/daifengwanglab/CellTRIP/blob/main/images/example_dyngen_interpolation.png" title="CellTRIP" alt="CellTRIP" width="160" height="160" align="left"/>
+    </td>
+    <td style="border: none; padding: 10px; vertical-align: top;">
+        <a href="https://github.com/daifengwanglab/CellTRIP">LINK</a>
+    </td>
+    <td style="border: none; padding: 10px; vertical-align: top;">
+        Massively multi-agent (10k+) reinforcement learning methodology for multimodal processing and trajectory prediction. The library includes custom distributed training logic using NCCL and Ray.
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 0px;">
+        <img src="https://github.com/daifengwanglab/JAMIE/blob/main/examples/notebooks/output_figures/BrainChromatin-JAMIE.png" title="JAMIE" alt="JAMIE" width="160" height="160" align="left"/>
+    </td>
+    <td style="border: none; padding: 10px; vertical-align: top;">
+        <a href="https://github.com/daifengwanglab/JAMIE">LINK</a>
+    </td>
+    <td style="border: none; padding: 10px; vertical-align: top;">
+        Novel joint variational autoencoder methodology allowing for multimodal integration and cross-modal imputation. Also includes interpretability components and extensive benchmarks.
+    </td>
+  </tr>
+</table>
+
 During the course of my education, I've held several roles that have given me opportunities to develop impactful methods and projects, including:
 
 <table style="border: none; border-collapse: collapse;">
@@ -12,7 +50,7 @@ During the course of my education, I've held several roles that have given me op
         <img src="assets/motherload.jpg" title="Motherload AI" alt="Motherload AI" width="40" height="40" align="left"/>
     </td>
     <td style="border: none; padding: 10px; vertical-align: top;">
-        Managing the creation of an LLM application providing emotional support to mothers in the workforce, including implementation of traditional and reinforcement learning fine-tuning pipelines with an emphasis on user safety.
+        Creating an agentic LLM application providing emotional support to mothers in the workforce, including implementation of traditional and reinforcement learning fine-tuning and evaluation pipelines with an emphasis on user safety.
     </td>
   </tr>
   <tr>
@@ -20,7 +58,7 @@ During the course of my education, I've held several roles that have given me op
         <img src="assets/waisman.jpg" title="Daifeng Wang Lab, Waisman Center" alt="Daifeng Wang Lab, Waisman Center" width="40" height="40" align="left"/>
     </td>
     <td style="border: none; padding: 10px; vertical-align: top;">
-        Leading research teams in single-cell biology resulting in publications in reinforcement learning, variational methods, graph learning, and optimal transport in Q1 AI and biochemistry journals. Concurrently developing open-source libraries to encourage innovation.
+        Leading research teams in novel methodological research resulting in publications in reinforcement learning, variational methods, graph learning, and optimal transport in Q1 AI journals. Concurrently developing open-source libraries to encourage innovation.
     </td>
   </tr>
   <tr>
@@ -28,7 +66,7 @@ During the course of my education, I've held several roles that have given me op
         <img src="assets/werklabs.jpg" title="Werklabs" alt="Werklabs" width="40" height="40" align="left"/>
     </td>
     <td style="border: none; padding: 10px; vertical-align: top;">
-        Developing interactive client-facing dashboards to visualize factors driving KPI. Concurrently performing research into data anonymization and conducting briefings on nascent ML technologies, including generative modeling.
+        Performing research into data anonymization and conducting briefings on nascent ML technologies, including generative modeling.
     </td>
   </tr>
   <tr>
@@ -53,7 +91,7 @@ Developing interactive client-facing dashboards to visualize factors driving KPI
 <!-- <img src="https://media.licdn.com/dms/image/v2/C560BAQGtjP738eVS_A/company-logo_200_200/company-logo_200_200/0/1663160331133/the_mom_project_logo?e=1772668800&v=beta&t=9KM2RlTmsEJbnuS4-KorzsWo3O9cDAHpAhloibe6e-4" title="The Mom Project" alt="The Mom Project" width="40" height="40" align="left"/>&nbsp;
 Designing and maintaining the talent-employer matching algorithm (2018-2022) for 500K+ users, as well as client contract prioritization and outcome prediction. Concurrently maintained cross-team and backend databases. -->
 
-If you're interested in any of my libraries or would like to work together, please don't hesitate to [send me an email](mailto:contact@noahcohenkalafut.com) or [check out my publications](https://orcid.org/0000-0003-1421-0829).
+I'm currently looking for work. If you're interested in any of my libraries or would like to work together, please don't hesitate to [send me an email](mailto:contact@noahcohenkalafut.com) or [check out my publications](https://orcid.org/0000-0003-1421-0829).
 
 ---
 
